@@ -49,7 +49,7 @@ ex) Update README.md
 
 ### Warming Up
 
-- 24일 부터 3일 예정
+- 25일 부터 3일 예정
 
 ### Programmers - 고득점 Kit
 
