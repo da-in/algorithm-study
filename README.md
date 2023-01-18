@@ -1,27 +1,9 @@
 # algorithm-study
 
-알고리즘을 꾸준히 공부하기 위한 스터디입니다.
+꾸준히 공부하기 위한 Python 알고리즘 스터디입니다.  
+매일 문제를 선별해 Issue로 등록하고 PR로 참여할 수 있습니다.
 
-### 📢 Rules
-
-매일 `오전 10시` 온라인 스터디 _주말, 공휴일 제외_  
-스터디에서는 전 날 `질문 PR에 남겨두기. 피드백(자율)` 및 오늘 `문제 선정` 아침 스터디에서 질문에 답변 및 토론
-기록 방식은 제가 정리해볼게요
-
-문제를 푼 후 `주제.md` 파일 생성, 다음 날 스터디 전까지 `PR 생성`하기
-
-> 🚨 실패시 벌금 2배씩 증가 `1000*(2^n)`  
-> 취업 후 일괄 납부😊 중도 포기시 누적 벌금 \* 10배  
-> 유고 사유 | 익일 코딩테스트 및 면접, 질병(인증 필요)
-
-### 🌈 Convention Rule
-
-**PR** | `[카테고리] 주제`  
-ex) [Algorithm] DFS&BFS
-
-**Commit** | `[카테고리] {커밋내용} 파일명.md`  
-ex) [Algorithm] Create DFS&BFS.md  
-ex) [Algorithm] Add Diagram DFS&BFS.md
+<br/>
 
 ### 😊 Collaborator
 
@@ -39,28 +21,46 @@ ex) [Algorithm] Add Diagram DFS&BFS.md
 
 <br/>
 
-## 학습 주제
+### 📢 Rules
 
-언어는 파이썬 통일
-매일 2 Sol 목표
+- 매일 `오전 10시` 온라인 스터디 _주말, 공휴일 제외_
+- 스터디에서는 코드리뷰, 질의응답, 토론 및 오늘 `문제 선정`. 돌아가면서 선정한 문제 [Issue](https://github.com/da-in/algorithm-study/issues) 로 등록하기
+- 다음 날 스터디 전까지 문제 해결 후 문제별 폴더에 `이름.py` 파일 생성. 이슈번호를 포함한 `PR` 생성. 코드리뷰로 피드백 및 질문 남기기
 
-## Programmers
+> 🚨 실패시 벌금 2배씩 증가 `1000*(2^n)`  
+> 취업 후 일괄 납부😊 중도 포기시 누적 벌금 \* 10배  
+> 유고 사유 | 익일 코딩테스트 및 면접, 질병(인증 필요)
 
-- 쉬운 문제로 워밍업 (알고리즘 X 구현 문제 ) 25, 26, 27
+### 🌈 Convention Rule
 
-Programmers 고득점 Kit 다 풀고
+**Issue** | `[폴더명] 문제이름`  
+ex) [Programmers - 고득점 Kit] 포켓몬
 
-- 매일 다른 2개 카테고리 문제 선정.
-- 대충 20일 걸림
+**PR** | `[날짜] 이름 #이슈번호`  
+ex) [2023-01-25] dain #1 #2
 
-Programmers에서 최근 문제
+**Commit** | `커밋내용 문제이름 파일명`  
+ex) Create 포켓몬 dain.py  
+ex) Update README.md
 
+<br/>
+
+## 📌 커리큘럼
+
+### Warming Up
+
+- 24일 부터 3일 예정
+
+### Programmers - 고득점 Kit
+
+- 매일 다른 카테고리 문제를 선별하여 풀기
+- 약 20일 예상
+
+### Programmers
+
+- 고득점 Kit는 출제일이 좀 된 문제들이므로 Programmers에서 최근 문제 풀이 진행
 - (몇레벨로 할지는 추후 결정, 랜덤 카테고리 선택 으로)
 
-## Leet Code
+### Leet Code
 
-순회 하면 되지 않을까?
-
-- 그때그때...
-
-### 📌 ETC
+- Programmers 이후 논의
