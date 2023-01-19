@@ -15,6 +15,12 @@
   <a href="https://github.com/lalabulla">
     <img src="https://avatars.githubusercontent.com/u/102718303?v=4" width="100" style="max-width: 100%;">
   </a>
+  <a href="https://github.com/seungyeonnnnnni">
+    <img src="https://avatars.githubusercontent.com/u/53565255?v=4" width="100" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/chs98412">
+    <img src="https://avatars.githubusercontent.com/u/79582366?v=4" width="100" style="max-width: 100%;">
+  </a>
 </div>
 
 ### 📢 Rules
