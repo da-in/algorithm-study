@@ -15,6 +15,12 @@
   <a href="https://github.com/lalabulla">
     <img src="https://avatars.githubusercontent.com/u/102718303?v=4" width="100" style="max-width: 100%;">
   </a>
+  <a href="https://github.com/seungyeonnnnnni">
+    <img src="https://avatars.githubusercontent.com/u/53565255?v=4" width="100" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/chs98412">
+    <img src="https://avatars.githubusercontent.com/u/79582366?v=4" width="100" style="max-width: 100%;">
+  </a>
 </div>
 
 ### 📢 Rules
@@ -32,7 +38,7 @@
 ex) [Programmers - 고득점 Kit] 포켓몬
 
 **PR** | `[날짜] 이름 #이슈번호`  
-ex) [2023-01-25] dain #1 #2
+ex) [2023-01-25] dain
 
 **Commit** | `커밋내용 문제이름 파일명`  
 ex) Create 포켓몬 dain.py  
