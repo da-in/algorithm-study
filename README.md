@@ -1,6 +1,6 @@
 # algorithm-study
 
-꾸준히 공부하기 위한 Python 알고리즘 스터디입니다.  
+꾸준히 공부하기 위한 Python 알고리즘 스터디입니다🔥  
 매일 문제를 선별해 Issue로 등록하고 PR로 참여할 수 있습니다.
 
 ### 😊 Collaborator
@@ -49,18 +49,26 @@ ex) Update README.md
 ## 커리큘럼
 
 ### 📌 Warming Up
+복잡한 알고리즘 없이 풀 수 있는 Programmers 문제로 Python 감 잡기.
+- Day1 | [삼총사 #4](https://github.com/da-in/algorithm-study/issues/4) , [콜라 문제 #6](https://github.com/da-in/algorithm-study/issues/6)
+- Day2 |
+- Day3 |
 
-- 25일 부터 3일 예정
+<br/>
 
 ### 📌 Programmers - 고득점 Kit
 
 - 매일 다른 카테고리 문제를 선별하여 풀기
 - 약 20일 예상
 
+<br/>
+
 ### 📌 Programmers
 
 - 고득점 Kit는 출제일이 좀 된 문제들이므로 Programmers에서 최근 문제 풀이 진행
 - (몇레벨로 할지는 추후 결정, 랜덤 카테고리 선택 으로)
+
+<br/>
 
 ### 📌 Leet Code
 
