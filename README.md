@@ -48,9 +48,9 @@ ex) Update README.md
 
 ## ✨ 효과 만점 코딩테스트 Cheat Sheet!
 
-- [🍯 파이썬 코드를 줄여줄 꿀 라이브러리 모음]()
-- [✏️ 파이썬에서 사용할 수 있는 유용한 구문 모음]()
-- [📚 파이썬 자료형 특징 모음]()
+- [🍯 파이썬 코드를 줄여줄 꿀 라이브러리 모음](https://github.com/da-in/algorithm-study/blob/main/✨%20효과%20만점%20코딩테스트%20Cheat%20Sheet!/🍯%20코드를%20줄여줄%20꿀%20라이브러리%20모음.md)
+- [✏️ 파이썬에서 사용할 수 있는 유용한 구문 모음](https://github.com/da-in/algorithm-study/blob/main/✨%20효과%20만점%20코딩테스트%20Cheat%20Sheet!/✏%EF%B8%8F%20파이썬에서%20사용할%20수%20있는%20유용한%20구문%20모음.md)
+- [📚 파이썬 자료형 특징 모음](https://github.com/da-in/algorithm-study/blob/main/✨%20효과%20만점%20코딩테스트%20Cheat%20Sheet!/📚%20파이썬%20자료형%20특징%20모음.md)
 
 <br/>
 
