@@ -46,30 +46,40 @@ ex) Update README.md
 
 <br/>
 
-## 커리큘럼
+## ✨ 효과 만점 코딩테스트 Cheat Sheet!
 
-### 📌 Warming Up
+- [🍯 파이썬 코드를 줄여줄 꿀 라이브러리 모음]()
+- [✏️ 파이썬에서 사용할 수 있는 유용한 구문 모음]()
+- [📚 파이썬 자료형 특징 모음]()
+
+<br/>
+
+## 🗓️ 커리큘럼
+
+### Warming Up
+
 복잡한 알고리즘 없이 풀 수 있는 Programmers 문제로 Python 감 잡기.
+
 - Day1 | [삼총사 #4](https://github.com/da-in/algorithm-study/issues/4) , [콜라 문제 #6](https://github.com/da-in/algorithm-study/issues/6)
 - Day2 |
 - Day3 |
 
 <br/>
 
-### 📌 Programmers - 고득점 Kit
+### Programmers - 고득점 Kit
 
 - 매일 다른 카테고리 문제를 선별하여 풀기
 - 약 20일 소요 예상
 
 <br/>
 
-### 📌 Programmers
+### Programmers
 
 - 고득점 Kit는 출제일이 좀 된 문제들이므로 Programmers에서 최근 문제 풀이 진행
 - Programmers - 고득점 Kit 이후 논의
 
 <br/>
 
-### 📌 Leet Code
+### Leet Code
 
 - Programmers 이후 논의
