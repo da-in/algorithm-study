@@ -61,7 +61,7 @@ ex) Update README.md
 복잡한 알고리즘 없이 풀 수 있는 Programmers 문제로 Python 감 잡기.
 
 - Day1 | [삼총사 #4](https://github.com/da-in/algorithm-study/issues/4) , [콜라 문제 #6](https://github.com/da-in/algorithm-study/issues/6)
-- Day2 |
+- Day2 | [개인정보 수집 유효기간 #11](https://github.com/da-in/algorithm-study/issues/11) , [과일 장수 #12](https://github.com/da-in/algorithm-study/issues/12)
 - Day3 |
 
 <br/>
