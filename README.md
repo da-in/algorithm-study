@@ -71,7 +71,7 @@ ex) Update README.md
 - 매일 다른 카테고리 문제를 선별하여 풀기 / 약 20일 소요 예상
 
 
-- Day4 | [폰켓몬 #1](https://github.com/da-in/algorithm-study/issues/1), [올바른 괄호 #2](https://github.com/da-in/algorithm-study/issues/2), [같은 숫자는 싫어](https://github.com/da-in/algorithm-study/issues/30)
+- Day4 | [폰켓몬 #1](https://github.com/da-in/algorithm-study/issues/1), [올바른 괄호 #2](https://github.com/da-in/algorithm-study/issues/2), [같은 숫자는 싫어 #30](https://github.com/da-in/algorithm-study/issues/30)
 <br/>
 
 ### Programmers
