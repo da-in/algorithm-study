@@ -68,9 +68,10 @@ ex) Update README.md
 
 ### Programmers - 고득점 Kit
 
-- 매일 다른 카테고리 문제를 선별하여 풀기
-- 약 20일 소요 예상
+- 매일 다른 카테고리 문제를 선별하여 풀기 / 약 20일 소요 예상
 
+
+- Day1 | [폰켓몬 #1](https://github.com/da-in/algorithm-study/issues/1), [올바른 괄호 #2](https://github.com/da-in/algorithm-study/issues/2)
 <br/>
 
 ### Programmers
