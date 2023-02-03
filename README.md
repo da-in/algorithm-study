@@ -72,7 +72,7 @@ ex) Update README.md
 
 - Day4 | [폰켓몬 #1](https://github.com/da-in/algorithm-study/issues/1), [올바른 괄호 #2](https://github.com/da-in/algorithm-study/issues/2), [같은 숫자는 싫어 #30](https://github.com/da-in/algorithm-study/issues/30)
 - Day5 | [더 맵게 #34](https://github.com/da-in/algorithm-study/issues/34), [K번째수 #35](https://github.com/da-in/algorithm-study/issues/35), [가장 큰 수 #36](https://github.com/da-in/algorithm-study/issues/36)
-
+- Day6 | [체육복 #50](https://github.com/da-in/algorithm-study/issues/50), [N으로 표현 #51](https://github.com/da-in/algorithm-study/issues/51)
 
 <br/>
 
