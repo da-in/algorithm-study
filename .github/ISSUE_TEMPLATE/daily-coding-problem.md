@@ -7,6 +7,7 @@ assignees: da-in
 
 ---
 
+## Summary
 <table>
   <tr>
     <th>Date</th>
@@ -22,8 +23,6 @@ assignees: da-in
     </td>
   </tr>
 </table>
-
-<br/>
 
 ## Insight
 
