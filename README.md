@@ -68,12 +68,10 @@ ex) Update README.md
 ### Programmers - 고득점 Kit
 
 - 매일 다른 카테고리 문제를 선별하여 풀기 / 약 20일 소요 예상
-
-
 - Day4 | [폰켓몬 #1](https://github.com/da-in/algorithm-study/issues/1), [올바른 괄호 #2](https://github.com/da-in/algorithm-study/issues/2), [같은 숫자는 싫어 #30](https://github.com/da-in/algorithm-study/issues/30)
 - Day5 | [더 맵게 #34](https://github.com/da-in/algorithm-study/issues/34), [K번째수 #35](https://github.com/da-in/algorithm-study/issues/35), [가장 큰 수 #36](https://github.com/da-in/algorithm-study/issues/36)
-
-
+- Day6 | [체육복 #50](https://github.com/da-in/algorithm-study/issues/50), [N으로 표현 #51](https://github.com/da-in/algorithm-study/issues/51)
+- Day7 | [타겟 넘버 #57](https://github.com/da-in/algorithm-study/issues/57), [입국심사 #58](https://github.com/da-in/algorithm-study/issues/58)
 <br/>
 
 ### Programmers
