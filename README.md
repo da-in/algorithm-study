@@ -74,6 +74,7 @@ ex) Update README.md
 - Day7 | [체육복 #50](https://github.com/da-in/algorithm-study/issues/50), [N으로 표현 #51](https://github.com/da-in/algorithm-study/issues/51)
 - Day8 | [타겟 넘버 #57](https://github.com/da-in/algorithm-study/issues/57), [입국심사 #58](https://github.com/da-in/algorithm-study/issues/58)
 - Day9 | [가장 먼 노드 #65](https://github.com/da-in/algorithm-study/issues/65)
+- Day10 | [전화번호 목록 #71](https://github.com/da-in/algorithm-study/issues/71), [기능개발 #72](https://github.com/da-in/algorithm-study/issues/72)
 <br/>
 
 ### Programmers
