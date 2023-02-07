@@ -73,6 +73,7 @@ ex) Update README.md
 - Day6 | [최소 직사각형 #42](https://github.com/da-in/algorithm-study/issues/42), [소수 찾기 #43](https://github.com/da-in/algorithm-study/issues/43), [조이스틱 #44](https://github.com/da-in/algorithm-study/issues/44)
 - Day7 | [체육복 #50](https://github.com/da-in/algorithm-study/issues/50), [N으로 표현 #51](https://github.com/da-in/algorithm-study/issues/51)
 - Day8 | [타겟 넘버 #57](https://github.com/da-in/algorithm-study/issues/57), [입국심사 #58](https://github.com/da-in/algorithm-study/issues/58)
+- Day9 | [가장 먼 노드 #65](https://github.com/da-in/algorithm-study/issues/65)
 <br/>
 
 ### Programmers
