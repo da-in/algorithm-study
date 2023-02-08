@@ -75,6 +75,7 @@ ex) Update README.md
 - Day8 | [타겟 넘버 #57](https://github.com/da-in/algorithm-study/issues/57), [입국심사 #58](https://github.com/da-in/algorithm-study/issues/58)
 - Day9 | [가장 먼 노드 #65](https://github.com/da-in/algorithm-study/issues/65)
 - Day10 | [전화번호 목록 #71](https://github.com/da-in/algorithm-study/issues/71), [기능개발 #72](https://github.com/da-in/algorithm-study/issues/72)
+- Day11 | [디스크 컨트롤러 #79](https://github.com/da-in/algorithm-study/issues/79), [완주하지 못한 선수 #80](https://github.com/da-in/algorithm-study/issues/80)
 <br/>
 
 ### Programmers
