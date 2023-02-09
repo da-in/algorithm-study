@@ -70,8 +70,13 @@ ex) Update README.md
 - 매일 다른 카테고리 문제를 선별하여 풀기 / 약 20일 소요 예상
 - Day4 | [폰켓몬 #1](https://github.com/da-in/algorithm-study/issues/1), [올바른 괄호 #2](https://github.com/da-in/algorithm-study/issues/2), [같은 숫자는 싫어 #30](https://github.com/da-in/algorithm-study/issues/30)
 - Day5 | [더 맵게 #34](https://github.com/da-in/algorithm-study/issues/34), [K번째수 #35](https://github.com/da-in/algorithm-study/issues/35), [가장 큰 수 #36](https://github.com/da-in/algorithm-study/issues/36)
-- Day6 | [체육복 #50](https://github.com/da-in/algorithm-study/issues/50), [N으로 표현 #51](https://github.com/da-in/algorithm-study/issues/51)
-- Day7 | [타겟 넘버 #57](https://github.com/da-in/algorithm-study/issues/57), [입국심사 #58](https://github.com/da-in/algorithm-study/issues/58)
+- Day6 | [최소 직사각형 #42](https://github.com/da-in/algorithm-study/issues/42), [소수 찾기 #43](https://github.com/da-in/algorithm-study/issues/43), [조이스틱 #44](https://github.com/da-in/algorithm-study/issues/44)
+- Day7 | [체육복 #50](https://github.com/da-in/algorithm-study/issues/50), [N으로 표현 #51](https://github.com/da-in/algorithm-study/issues/51)
+- Day8 | [타겟 넘버 #57](https://github.com/da-in/algorithm-study/issues/57), [입국심사 #58](https://github.com/da-in/algorithm-study/issues/58)
+- Day9 | [가장 먼 노드 #65](https://github.com/da-in/algorithm-study/issues/65)
+- Day10 | [전화번호 목록 #71](https://github.com/da-in/algorithm-study/issues/71), [기능개발 #72](https://github.com/da-in/algorithm-study/issues/72)
+- Day11 | [디스크 컨트롤러 #79](https://github.com/da-in/algorithm-study/issues/79), [완주하지 못한 선수 #80](https://github.com/da-in/algorithm-study/issues/80)
+- Day12 | [H-Index #87](https://github.com/da-in/algorithm-study/issues/87), [큰 수 만들기 #88](https://github.com/da-in/algorithm-study/issues/88)
 <br/>
 
 ### Programmers
