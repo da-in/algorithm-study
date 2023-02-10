@@ -77,6 +77,8 @@ ex) Update README.md
 - Day10 | [전화번호 목록 #71](https://github.com/da-in/algorithm-study/issues/71), [기능개발 #72](https://github.com/da-in/algorithm-study/issues/72)
 - Day11 | [디스크 컨트롤러 #79](https://github.com/da-in/algorithm-study/issues/79), [완주하지 못한 선수 #80](https://github.com/da-in/algorithm-study/issues/80)
 - Day12 | [H-Index #87](https://github.com/da-in/algorithm-study/issues/87), [큰 수 만들기 #88](https://github.com/da-in/algorithm-study/issues/88)
+- ⭐1RM DAY | [2023 Spring Coding - 스타트업 인턴 프로그램 응시](https://career.programmers.co.kr/competitions/3155)
+
 <br/>
 
 ### Programmers
