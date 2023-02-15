@@ -79,7 +79,7 @@ ex) Update README.md
 - Day12 | [H-Index #87](https://github.com/da-in/algorithm-study/issues/87), [큰 수 만들기 #88](https://github.com/da-in/algorithm-study/issues/88)
 - ⭐1RM DAY | [2023 Spring Coding - 스타트업 인턴 프로그램 응시](https://career.programmers.co.kr/competitions/3155)
 - Day13 | [정수 삼각형 #93](https://github.com/da-in/algorithm-study/issues/93), [모의고사 #94](https://github.com/da-in/algorithm-study/issues/94)
-
+- Day14 | [구명보트 #100](https://github.com/da-in/algorithm-study/issues/100), [게임 맵 최단거리 #101](https://github.com/da-in/algorithm-study/issues/101)
 <br/>
 
 ### Programmers
