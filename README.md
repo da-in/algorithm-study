@@ -82,6 +82,7 @@ ex) Update README.md
 - Day14 | [구명보트 #100](https://github.com/da-in/algorithm-study/issues/100), [게임 맵 최단거리 #101](https://github.com/da-in/algorithm-study/issues/101)
 - Day15 | [등굣길 #107](https://github.com/da-in/algorithm-study/issues/107), [Two Sum #108](https://github.com/da-in/algorithm-study/issues/108)
 - Day16 | [징검다리 #107](https://github.com/da-in/algorithm-study/issues/112)
+- Day17 | [순위 #116](https://github.com/da-in/algorithm-study/issues/116)
 <br/>
 
 ### Programmers
