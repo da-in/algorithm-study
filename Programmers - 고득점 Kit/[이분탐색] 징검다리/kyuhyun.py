@@ -14,10 +14,10 @@ def solution(distance, rocks, n):
                 count += 1
             else:
                 key = rock + mid
-        if count >= n:
-            answer = mid
+        if count > n:
             right = mid - 1
         else:
+            answer = mid
             left = mid + 1
             
     return answer
