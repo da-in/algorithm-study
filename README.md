@@ -83,6 +83,7 @@ ex) Update README.md
 - Day15 | [등굣길 #107](https://github.com/da-in/algorithm-study/issues/107), [Two Sum #108](https://github.com/da-in/algorithm-study/issues/108)
 - Day16 | [징검다리 #107](https://github.com/da-in/algorithm-study/issues/112)
 - Day17 | [순위 #116](https://github.com/da-in/algorithm-study/issues/116)
+- Day18 | [위장 #121](https://github.com/da-in/algorithm-study/issues/121), [프린터 #122](https://github.com/da-in/algorithm-study/issues/122)
 <br/>
 
 ### Programmers
