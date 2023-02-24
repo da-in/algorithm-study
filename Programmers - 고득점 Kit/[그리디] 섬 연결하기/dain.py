@@ -10,10 +10,10 @@ def solution(n, costs):
 
     for c in costs:
         a, b, cost = c
-        if getParent(a) != getParent(b):
+        ap = getParent(a)
+        bp = getParent(b)
+        if ap != bp:
             answer.append(cost)
-            ap = getParent(a)
-            bp = getParent(b)
             parent[ap] = parent[bp] = min(ap, bp)
         if len(answer) == n - 1:
             break
