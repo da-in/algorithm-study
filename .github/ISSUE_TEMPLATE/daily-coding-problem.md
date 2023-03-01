@@ -19,7 +19,7 @@ assignees: da-in
   </tr>
   <tr>
     <th>Link</th>
-    <td><a href='https://link.example'>https://link.example</a>
+    <td><a href='https://link.example' target='_blank' >https://link.example</a>
     </td>
   </tr>
 </table>
