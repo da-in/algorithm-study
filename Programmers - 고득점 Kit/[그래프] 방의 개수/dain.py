@@ -32,3 +32,24 @@ def solution(arrows):
                 answer += 1
         x, y = nx, ny
     return answer
+
+
+# 오일러 정리를 이용한 코드
+# v-e+f = 1
+# v: 꼭짓점, e:모서리, f:면
+
+def solution(arrows):
+    # f = 1 + e - v
+    e = set()
+    v = {(0, 0)}
+    dx = [0, 1, 1, 1, 0, -1, -1, -1]
+    dy = [1, 1, 0, -1, -1, -1, 0, 1]
+    x = y = nx = ny = 0
+    for a in arrows:
+        for _ in range(2):
+            nx = x + dx[a]
+            ny = y + dy[a]
+            v.add((nx, ny))
+            e.add(frozenset({(nx, ny), (x, y)}))
+            x, y = nx, ny
+    return 1 + len(e) - len(v)
