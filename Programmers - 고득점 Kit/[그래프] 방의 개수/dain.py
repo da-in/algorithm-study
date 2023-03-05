@@ -38,6 +38,7 @@ def solution(arrows):
 # v-e+f = 1
 # v: 꼭짓점, e:모서리, f:면
 
+
 def solution(arrows):
     # f = 1 + e - v
     e = set()
