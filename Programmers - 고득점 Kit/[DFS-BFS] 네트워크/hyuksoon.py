@@ -5,13 +5,12 @@ def solution(n, computers):
         global visit
         visit[n]=True
         q=deque([n])
-        print(n)
         while q:
             target=q.popleft()
-            for c in computers[target]:
-                if c==1 and not visit[c]:
-                    visit[c]=True
-                    q.append(c)
+            for idx,c in enumerate(computers[target]):
+                if c==1 and not visit[idx]:
+                    visit[idx]=True
+                    q.append(idx)
         return 1
                     
             
