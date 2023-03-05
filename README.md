@@ -58,8 +58,7 @@ ex) Update README.md
 
 ### Warming Up
 
-복잡한 알고리즘 없이 풀 수 있는 Programmers 문제로 Python 감 잡기.
-
+- 복잡한 알고리즘 없이 풀 수 있는 Programmers 문제로 Python 감 잡기.
 - Day1 | [삼총사 #4](https://github.com/da-in/algorithm-study/issues/4) , [콜라 문제 #6](https://github.com/da-in/algorithm-study/issues/6)
 - Day2 | [개인정보 수집 유효기간 #11](https://github.com/da-in/algorithm-study/issues/11) , [과일 장수 #12](https://github.com/da-in/algorithm-study/issues/12)
 - Day3 | [뒤에 있는 큰 수 찾기 #19](https://github.com/da-in/algorithm-study/issues/19) , [마법의 엘리베이터 #20](https://github.com/da-in/algorithm-study/issues/20)
@@ -68,8 +67,31 @@ ex) Update README.md
 
 ### Programmers - 고득점 Kit
 
-- 매일 다른 카테고리 문제를 선별하여 풀기
-- 약 20일 소요 예상
+- 매일 다른 카테고리 문제를 선별하여 풀기 / 약 20일 소요 예상
+- Day4 | [폰켓몬 #1](https://github.com/da-in/algorithm-study/issues/1), [올바른 괄호 #2](https://github.com/da-in/algorithm-study/issues/2), [같은 숫자는 싫어 #30](https://github.com/da-in/algorithm-study/issues/30)
+- Day5 | [더 맵게 #34](https://github.com/da-in/algorithm-study/issues/34), [K번째수 #35](https://github.com/da-in/algorithm-study/issues/35), [가장 큰 수 #36](https://github.com/da-in/algorithm-study/issues/36)
+- Day6 | [최소 직사각형 #42](https://github.com/da-in/algorithm-study/issues/42), [소수 찾기 #43](https://github.com/da-in/algorithm-study/issues/43), [조이스틱 #44](https://github.com/da-in/algorithm-study/issues/44)
+- Day7 | [체육복 #50](https://github.com/da-in/algorithm-study/issues/50), [N으로 표현 #51](https://github.com/da-in/algorithm-study/issues/51)
+- Day8 | [타겟 넘버 #57](https://github.com/da-in/algorithm-study/issues/57), [입국심사 #58](https://github.com/da-in/algorithm-study/issues/58)
+- Day9 | [가장 먼 노드 #65](https://github.com/da-in/algorithm-study/issues/65)
+- Day10 | [전화번호 목록 #71](https://github.com/da-in/algorithm-study/issues/71), [기능개발 #72](https://github.com/da-in/algorithm-study/issues/72)
+- Day11 | [디스크 컨트롤러 #79](https://github.com/da-in/algorithm-study/issues/79), [완주하지 못한 선수 #80](https://github.com/da-in/algorithm-study/issues/80)
+- Day12 | [H-Index #87](https://github.com/da-in/algorithm-study/issues/87), [큰 수 만들기 #88](https://github.com/da-in/algorithm-study/issues/88)
+- ⭐1RM DAY | [2023 Spring Coding - 스타트업 인턴 프로그램 응시](https://career.programmers.co.kr/competitions/3155)
+- Day13 | [정수 삼각형 #93](https://github.com/da-in/algorithm-study/issues/93), [모의고사 #94](https://github.com/da-in/algorithm-study/issues/94)
+- Day14 | [구명보트 #100](https://github.com/da-in/algorithm-study/issues/100), [게임 맵 최단거리 #101](https://github.com/da-in/algorithm-study/issues/101)
+- Day15 | [등굣길 #107](https://github.com/da-in/algorithm-study/issues/107), [Two Sum #108](https://github.com/da-in/algorithm-study/issues/108)
+- Day16 | [징검다리 #107](https://github.com/da-in/algorithm-study/issues/112)
+- Day17 | [순위 #116](https://github.com/da-in/algorithm-study/issues/116)
+- Day18 | [위장 #121](https://github.com/da-in/algorithm-study/issues/121), [프린터 #122](https://github.com/da-in/algorithm-study/issues/122)
+- Day19 | [이중우선순위큐 #127](https://github.com/da-in/algorithm-study/issues/127), [카펫 #128](https://github.com/da-in/algorithm-study/issues/128)
+
+_개강 후에는 매주 월/목 오전 9:30에 공유 진행, 1일 1문제 풀기._
+
+- Day20 | [선 연결하기 #133](https://github.com/da-in/algorithm-study/issues/133)
+- Day21 | [방의 개수 #138](https://github.com/da-in/algorithm-study/issues/133)
+- Day22 | [네트워크 #138](https://github.com/da-in/algorithm-study/issues/138)
+- Day23 | [베스트앨범 #146](https://github.com/da-in/algorithm-study/issues/146)
 
 <br/>
 
