@@ -85,6 +85,14 @@ ex) Update README.md
 - Day17 | [순위 #116](https://github.com/da-in/algorithm-study/issues/116)
 - Day18 | [위장 #121](https://github.com/da-in/algorithm-study/issues/121), [프린터 #122](https://github.com/da-in/algorithm-study/issues/122)
 - Day19 | [이중우선순위큐 #127](https://github.com/da-in/algorithm-study/issues/127), [카펫 #128](https://github.com/da-in/algorithm-study/issues/128)
+
+_개강 후에는 매주 월/목 오전 9:30에 공유 진행, 1일 1문제 풀기._
+
+- Day20 | [선 연결하기 #133](https://github.com/da-in/algorithm-study/issues/133)
+- Day21 | [방의 개수 #138](https://github.com/da-in/algorithm-study/issues/133)
+- Day22 | [네트워크 #138](https://github.com/da-in/algorithm-study/issues/138)
+- Day23 | [베스트앨범 #146](https://github.com/da-in/algorithm-study/issues/146)
+
 <br/>
 
 ### Programmers
