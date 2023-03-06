@@ -93,7 +93,7 @@ _개강 후에는 매주 월/목 오전 9:30에 공유 진행, 1일 1문제 풀�
 - Day22 | [네트워크 #138](https://github.com/da-in/algorithm-study/issues/138)
 - Day23 | [베스트앨범 #146](https://github.com/da-in/algorithm-study/issues/146)
 - Day24 | [다리를 지나는 트럭 #153](https://github.com/da-in/algorithm-study/issues/153), [피로도 #154](https://github.com/da-in/algorithm-study/issues/154)
-
+- Day25 | [주식가격 #155](https://github.com/da-in/algorithm-study/issues/155), [전력망을 둘로 나누기 #156](https://github.com/da-in/algorithm-study/issues/156)
 
 <br/>
 
