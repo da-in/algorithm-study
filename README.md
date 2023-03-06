@@ -95,13 +95,6 @@ _개강 후에는 매주 월/목 오전 9:30에 공유 진행, 1일 1문제 풀�
 
 <br/>
 
-### Programmers
-
-- 고득점 Kit는 출제일이 좀 된 문제들이므로 Programmers에서 최근 문제 풀이 진행
-- Programmers - 고득점 Kit 이후 논의
-
-<br/>
-
 ### Leet Code
 
 - Programmers 이후 논의
