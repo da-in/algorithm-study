@@ -92,7 +92,7 @@ _개강 후에는 매주 월/목 오전 9:30에 공유 진행, 1일 1문제 풀�
 - Day21 | [방의 개수 #138](https://github.com/da-in/algorithm-study/issues/133)
 - Day22 | [네트워크 #138](https://github.com/da-in/algorithm-study/issues/138)
 - Day23 | [베스트앨범 #146](https://github.com/da-in/algorithm-study/issues/146)
-- Day23 | [다리를 지나는 트럭 #153](https://github.com/da-in/algorithm-study/issues/153), [피로도 #154](https://github.com/da-in/algorithm-study/issues/154)
+- Day24 | [다리를 지나는 트럭 #153](https://github.com/da-in/algorithm-study/issues/153), [피로도 #154](https://github.com/da-in/algorithm-study/issues/154)
 
 
 <br/>
