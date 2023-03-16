@@ -51,7 +51,7 @@ ex) Update README.md
 - [🍯 파이썬 코드를 줄여줄 꿀 라이브러리 모음](https://github.com/da-in/algorithm-study/blob/main/✨%20효과%20만점%20코딩테스트%20Cheat%20Sheet!/🍯%20코드를%20줄여줄%20꿀%20라이브러리%20모음.md)
 - [✏️ 파이썬에서 사용할 수 있는 유용한 구문 모음](https://github.com/da-in/algorithm-study/blob/main/✨%20효과%20만점%20코딩테스트%20Cheat%20Sheet!/✏%EF%B8%8F%20파이썬에서%20사용할%20수%20있는%20유용한%20구문%20모음.md)
 - [📚 파이썬 자료형 특징 모음](https://github.com/da-in/algorithm-study/blob/main/✨%20효과%20만점%20코딩테스트%20Cheat%20Sheet!/📚%20파이썬%20자료형%20특징%20모음.md)
-
+- [🚀 알고리즘 해킹 아이디어](https://github.com/da-in/algorithm-study/blob/main/✨%20효과%20만점%20코딩테스트%20Cheat%20Sheet!/🚀%20알고리즘%20해킹%20아이디어.md)
 <br/>
 
 ## 🗓️ 커리큘럼
@@ -85,12 +85,15 @@ ex) Update README.md
 - Day17 | [순위 #116](https://github.com/da-in/algorithm-study/issues/116)
 - Day18 | [위장 #121](https://github.com/da-in/algorithm-study/issues/121), [프린터 #122](https://github.com/da-in/algorithm-study/issues/122)
 - Day19 | [이중우선순위큐 #127](https://github.com/da-in/algorithm-study/issues/127), [카펫 #128](https://github.com/da-in/algorithm-study/issues/128)
-<br/>
 
-### Programmers
+_개강 후에는 매주 월/목 오전 9:30에 공유 진행, 1일 1문제 풀기._
 
-- 고득점 Kit는 출제일이 좀 된 문제들이므로 Programmers에서 최근 문제 풀이 진행
-- Programmers - 고득점 Kit 이후 논의
+- Day20 | [선 연결하기 #133](https://github.com/da-in/algorithm-study/issues/133)
+- Day21 | [방의 개수 #138](https://github.com/da-in/algorithm-study/issues/133)
+- Day22 | [네트워크 #138](https://github.com/da-in/algorithm-study/issues/138)
+- Day23 | [베스트앨범 #146](https://github.com/da-in/algorithm-study/issues/146)
+- Day24 | [다리를 지나는 트럭 #153](https://github.com/da-in/algorithm-study/issues/153), [피로도 #154](https://github.com/da-in/algorithm-study/issues/154)
+- Day25 | [주식가격 #155](https://github.com/da-in/algorithm-study/issues/155), [전력망을 둘로 나누기 #156](https://github.com/da-in/algorithm-study/issues/156)
 
 <br/>
 
