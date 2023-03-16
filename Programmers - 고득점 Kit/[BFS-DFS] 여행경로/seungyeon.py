@@ -3,12 +3,12 @@ answer = []
 graph = collections.defaultdict(list)
 visited = collections.defaultdict(list)
 
+def main():
+    print(solution([["ICN", "JFK"], ["HND", "IAD"], ["JFK", "HND"]]))
+
 def dfs(s, cnt, list, l):
     if cnt == l:
         answer.append(list)
-        return
-    
-    if len(answer) >= 1:
         return
 
     for a in range(len(graph[s])):
@@ -28,3 +28,6 @@ def solution(tickets):
     dfs("ICN",0, ["ICN"], len(tickets))
 
     return answer[:][0]
+
+if __name__ == "__main__":
+    main()
