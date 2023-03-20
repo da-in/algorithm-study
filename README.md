@@ -21,6 +21,9 @@
   <a href="https://github.com/chs98412">
     <img src="https://avatars.githubusercontent.com/u/79582366?v=4" width="100" style="max-width: 100%;">
   </a>
+  <a href="https://github.com/chs0412">
+    <img src="https://avatars.githubusercontent.com/u/52202546?v=4" width="100" style="max-width: 100%;">
+  </a>
 </div>
 
 ### 📢 Rules
