@@ -1,6 +1,3 @@
-import copy
-
-
 def solution(game_board, table):
     answer = 0
     able_areas = []
@@ -11,21 +8,12 @@ def solution(game_board, table):
     dfs_target_number = 0
 
     def move(puzzle):
-        temp = []
-        [first_x, first_y] = [float("inf"), float("-inf")]
-        for x, y in puzzle:
-            if y > first_y:
-                first_y = y
-                first_x = x
-            elif y == first_y and x < first_x:
-                first_x = x
-        for x, y in puzzle:
-            temp.append((x - first_x, y - first_y))
-        temp.sort()
-        return temp
+        puzzle.sort(key=lambda p: (p[1], p[0]))
+        [first_x, first_y] = puzzle[0]
+        return list(map(lambda p: (p[0] - first_x, p[1] - first_y), puzzle))
 
     def rotate(puzzle):
-        result = [puzzle]
+        result = [move(puzzle)]
         for _ in range(3):
             temp = []
             for x, y in result[-1]:
@@ -64,5 +52,6 @@ def solution(game_board, table):
             if puzzle in able_area:
                 able_areas.remove(able_area)
                 answer += len(puzzle)
+                break
 
     return answer
