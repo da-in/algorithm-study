@@ -1,6 +1,9 @@
 def solution(picks, minerals):
     if picks[0]*5>len(minerals):
         return len(minerals)
+    if sum(picks)*5<len(minerals):
+        idx=len(minerals)-sum(picks)*5
+        minerals=minerals[:-idx]
     
     answer = 0
     l=[0 for i in range(len(minerals)//5+1)]
@@ -61,6 +64,5 @@ def solution(picks, minerals):
         p_str.remove(p_str[0])
         if len(p_str)==0:
             break
-            
     
     return answer
