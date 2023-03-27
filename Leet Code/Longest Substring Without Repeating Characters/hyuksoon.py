@@ -1,7 +1,7 @@
 from collections import deque
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        data={}
+        data=dict()
         idx=0
         answer=0
         for i,sub in enumerate(s):
