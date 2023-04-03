@@ -7,7 +7,7 @@ def solution(n):
     x=1000000007
     if n%2==0:
         for a in range(len(x+1)):
-            b**(x-a)*(x-a+1)
+            answer += b**(x-a)*(x-a+1)
         return answer%x
     else:
         return 0
