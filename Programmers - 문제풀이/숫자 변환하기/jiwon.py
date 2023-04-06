@@ -1,13 +1,16 @@
 from collections import deque
 
+# 8,10,11 런타임 에러
 def solution(x, y, n):
+    if x==y:
+        return 0
+    
     q = deque([x])
     l = [0]*1000000
-    l[x]=1
     
+    temp=x
     while q and temp<y:
         temp = q.popleft()
-        
         if temp+n<=y and l[temp+n]==0:
             l[temp+n]=l[temp]+1
             q.append(temp+n)
