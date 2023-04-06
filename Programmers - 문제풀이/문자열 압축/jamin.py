@@ -1,29 +1,30 @@
 def solution(s):
-    answer = len(s)
+    answer = []
 
-    for i in range(1, len(s)//2 + 1):
-        prev_str = s[:i]
-        compressed = ''
+    for i in range(1, len(s) // 2 + 1):
+        pre = s[:i]
+        result = ''
         count = 1
 
-        for j in range(i, len(s), i):
-            curr_str = s[j:j+i]
+        for j in range(i, len(s), i):  # i 간격으로 j증가시킴
+            cur = s[j:j + i]  # s[1:2]
 
-            if curr_str == prev_str:
+            if cur == pre:
                 count += 1
             else:
                 if count == 1:
-                    compressed += prev_str
+                    result += pre  # 1은 생략
                 else:
-                    compressed += str(count) + prev_str
-                prev_str = curr_str
+                    result += str(count) + pre
+                pre = cur  # pre 업데이트
                 count = 1
 
-        if count == 1:
-            compressed += prev_str
+        if count == 1:  #남은 문자들 처리
+            result += pre
         else:
-            compressed += str(count) + prev_str
+            result += str(count) + pre
+            
+        answer.append(len(result))
 
-        answer = min(answer, len(compressed))
-
-    return answer
+    answer.append(len(s))
+    return min(answer)
