@@ -11,7 +11,7 @@ def solution(weights):
 #                 continue
 #             if a in t_weights[j] or b in t_weights[j] or c in t_weights[j] or d in t_weights[j]:
 #                 answer+=1
-    answer=0
+    answer=0 
     weights.sort()
     cnt_weights=Counter(weights)
     comb_weights = list(combinations(cnt_weights.keys(),2))
