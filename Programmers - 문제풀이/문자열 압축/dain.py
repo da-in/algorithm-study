@@ -4,8 +4,7 @@ def solution(s):
         word = ""
         count = 1
         target = s[:i]
-        print(i)
-        for j in range(i, len(s) - i, i):
+        for j in range(i, len(s) + i, i):
             if target == s[j : j + i]:
                 count += 1
             else:
@@ -14,6 +13,5 @@ def solution(s):
                 word += target
                 target = s[j : j + i]
                 count = 1
-        print(word)
         answer.append(len(word))
     return min(answer)
