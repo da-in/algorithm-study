@@ -1,7 +1,7 @@
 from collections import deque
 
 def bfs(maps,visited,x,y,rlen,clen):
-    # 상, 하, 좌, 우
+    # 상, 하, 좌, 우 
     dx=[0,0,-1,1]
     dy=[1,-1,0,0]
     

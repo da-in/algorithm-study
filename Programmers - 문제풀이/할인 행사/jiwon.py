@@ -5,7 +5,7 @@ def solution(want, number, discount):
     
     for i in range(len(discount)-9):
         d_want = dict(zip(want,number))
-        q=deque(discount[i:i+10])
+        q=deque(discount[i:i+10]) 
         
         for _ in range(10):
             temp = q.popleft()
