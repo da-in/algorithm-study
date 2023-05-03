@@ -1,6 +1,6 @@
 ---
-name: Daily Coding Problem
-about: Assign daily coding problem as issue.
+name: Weekly Coding Problem
+about: Assign weekly coding problem as issue.
 title: "[Curriculum] Problem_Name"
 labels: ''
 assignees: da-in
@@ -19,7 +19,7 @@ assignees: da-in
   </tr>
   <tr>
     <th>Link</th>
-    <td><a href='https://link.example'>https://link.example</a>
+    <td><a href='https://link.example' target='_blank' >https://link.example</a>
     </td>
   </tr>
 </table>
