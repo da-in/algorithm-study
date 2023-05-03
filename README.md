@@ -108,3 +108,5 @@ ex) Update README.md
 ### Leet Code
 
 - Programmers 이후 논의
+
+**해당 레포지토리는 [Da-in](https://github.com/da-in/algorithm-study)님의 Repo를 기반으로 재구성하였습니다.**
