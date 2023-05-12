@@ -65,6 +65,7 @@ ex) Update README.md
 
 <!-- ex) Week1 | [Problem #1](link) [Problem #2](link) -->
 - Week1 | [요격 시스템 #2](https://github.com/RecoRecoNi/Algorithm-Study/issues/2) [택배 배달과 수거하기 #1](https://github.com/RecoRecoNi/Algorithm-Study/issues/1)
+- Week2 | [에디터 #10](https://github.com/RecoRecoNi/Algorithm-Study/issues/10) [키로거 #11](https://github.com/RecoRecoNi/Algorithm-Study/issues/11)
 <!-- - Day1 | [삼총사 #4] , [콜라 문제 #6]
 - Day2 | [개인정보 수집 유효기간 #11] , [과일 장수 #12]
 - Day3 | [뒤에 있는 큰 수 찾기 #19] , [마법의 엘리베이터 #20] -->
