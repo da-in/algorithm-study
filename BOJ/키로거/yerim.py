@@ -33,7 +33,7 @@ for _ in range(int(input())):
     for k in keylog:
         if k == "<":
             if left:
-                right.append(left.pop())
+                right.appendleft(left.pop())
 
         elif k == ">":
             if right:
