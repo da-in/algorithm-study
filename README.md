@@ -66,16 +66,17 @@ ex) Update README.md
 <!-- ex) Week1 | [Problem #1](link) [Problem #2](link) -->
 - Week1 | [요격 시스템 #2](https://github.com/RecoRecoNi/Algorithm-Study/issues/2) [택배 배달과 수거하기 #1](https://github.com/RecoRecoNi/Algorithm-Study/issues/1)
 - Week2 | [에디터 #10](https://github.com/RecoRecoNi/Algorithm-Study/issues/10) [키로거 #11](https://github.com/RecoRecoNi/Algorithm-Study/issues/11)
-- Week3 | [이모티콘 할인행사 #26](https://github.com/RecoRecoNi/Algorithm-Study/issues/26) [두 원 사이의 정수 쌍 #27](https://github.com/RecoRecoNi/Algorithm-Study/issues/27)
+- Week3 | [이모티콘 할인행사 #26](https://github.com/RecoRecoNi/Algorithm-Study/issues/26) 
+- Week4 | [두 원 사이의 정수 쌍 #27](https://github.com/RecoRecoNi/Algorithm-Study/issues/27)
 <!-- - Day1 | [삼총사 #4] , [콜라 문제 #6]
 - Day2 | [개인정보 수집 유효기간 #11] , [과일 장수 #12]
 - Day3 | [뒤에 있는 큰 수 찾기 #19] , [마법의 엘리베이터 #20] -->
 
 <br/>
 
-### Programmers - 고득점 Kit
+<!-- ### Programmers - 고득점 Kit
 
-- 매일 다른 카테고리 문제를 선별하여 풀기
+- 매일 다른 카테고리 문제를 선별하여 풀기 -->
 <!-- - Day4 | [폰켓몬 #1], [올바른 괄호 #2], [같은 숫자는 싫어 #30]
 - Day5 | [더 맵게 #34], [K번째수 #35], [가장 큰 수 #36]
 - Day6 | [최소 직사각형 #42], [소수 찾기 #43], [조이스틱 #44]
@@ -105,10 +106,18 @@ ex) Update README.md
 - Day29 | [모음사전 #169]
 - Day30 | [아이템 줍기 #170]
 - Day31 | [여행경로 #171]71 -->
+  
+### Programmers - 문제풀이
+
+- [프로그래머스](https://school.programmers.co.kr/learn/challenges?tab=all_challenges&order=recent&page=1&languages=python3&levels=2%2C3)의 Level 2, 3 문제를 최신순으로 풀기
+
+### BOJ
+
+- [바킹독님 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)의 알고리즘 별 백준 문제 풀기
+
+<!-- ### Leet Code
+
+- Programmers 이후 논의 -->     
   <br/>
-
-### Leet Code
-
-- Programmers 이후 논의
 
 **해당 레포지토리는 [Da-in](https://github.com/da-in/algorithm-study)님의 Repo를 기반으로 재구성하였습니다.**
