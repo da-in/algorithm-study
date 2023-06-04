@@ -68,9 +68,7 @@ ex) Update README.md
 - Week2 | [에디터 #10](https://github.com/RecoRecoNi/Algorithm-Study/issues/10), [키로거 #11](https://github.com/RecoRecoNi/Algorithm-Study/issues/11)
 - Week3 | [이모티콘 할인행사 #26](https://github.com/RecoRecoNi/Algorithm-Study/issues/26) 
 - Week4 | [두 원 사이의 정수 쌍 #27](https://github.com/RecoRecoNi/Algorithm-Study/issues/27), [제로 #40](https://github.com/RecoRecoNi/Algorithm-Study/issues/40)
-<!-- - Day1 | [삼총사 #4] , [콜라 문제 #6]
-- Day2 | [개인정보 수집 유효기간 #11] , [과일 장수 #12]
-- Day3 | [뒤에 있는 큰 수 찾기 #19] , [마법의 엘리베이터 #20] -->
+- Week5 | [스택 수열 #46](https://github.com/RecoRecoNi/Algorithm-Study/issues/46), [표현 가능한 이진트리 #47](https://github.com/RecoRecoNi/Algorithm-Study/issues/47)
 
 <br/>
 
