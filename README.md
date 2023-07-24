@@ -27,6 +27,9 @@
   <a href="https://github.com/kimgwon">
     <img src="https://avatars.githubusercontent.com/u/92065911?v=4" width="100" style="max-width: 100%;">
   </a>
+  <a href="https://github.com/Namsang710">
+    <img src="https://avatars.githubusercontent.com/u/86237789?v=4" width="100" style="max-width: 100%;">
+  </a>
 </div>
 
 ### 📢 Rules
