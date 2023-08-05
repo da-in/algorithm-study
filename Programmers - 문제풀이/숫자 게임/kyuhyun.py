@@ -1,6 +1,6 @@
 def solution(A, B):
     answer = 0
-    if min(B) > max(A) : 
+    if min(B) > max(A) :
         return len(B)
 
     st_a = 0
